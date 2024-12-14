@@ -1,0 +1,115 @@
+This repository contains a collection of links to wordlist repositories that can be used for various pentesting tasks. Each category includes links to GitHub repositories and other resources that provide relevant wordlists.
+We encourage contributions to this repository to make it more comprehensive and useful. Whether you are a security expert or a student, your input can help improve this project and support others in their pentesting tests. Feel free to add new wordlists or suggest updates to existing ones.
+
+ 1. Password Cracking
+- [SecLists (Password Lists)](https://github.com/danielmiessler/SecLists)
+ 
+  git clone https://github.com/danielmiessler/SecLists.git
+ 
+  Path: `SecLists/Passwords/`
+
+- [Rockyou Wordlist](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
+ 
+  wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+ 
+
+- [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists)
+ 
+  git clone https://github.com/berzerk0/Probable-Wordlists.git
+ 
+
+ 2. Directory and File Enumeration
+- [SecLists (Discovery Wordlists)](https://github.com/danielmiessler/SecLists)
+ 
+  git clone https://github.com/danielmiessler/SecLists.git
+ 
+  Path: `SecLists/Discovery/Web-Content/`
+
+- [DirSearch Wordlists](https://github.com/maurosoria/dirsearch)
+ 
+  git clone https://github.com/maurosoria/dirsearch.git
+ 
+  Path: `dirsearch/db/`
+
+- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
+ 
+  git clone https://github.com/fuzzdb-project/fuzzdb.git
+ 
+  Path: `fuzzdb/discovery/`
+
+ 3. Subdomain Enumeration
+- [SecLists (DNS Discovery)](https://github.com/danielmiessler/SecLists)
+ 
+  git clone https://github.com/danielmiessler/SecLists.git
+ 
+  Path: `SecLists/Discovery/DNS/`
+
+- [AssetNote DNS Wordlist](https://wordlists-cdn.assetnote.io/data/manual/best-dns-wordlist.txt)
+ 
+  wget https://wordlists-cdn.assetnote.io/data/manual/best-dns-wordlist.txt
+ 
+
+- [Amass Wordlists](https://github.com/OWASP/Amass)
+ 
+  git clone https://github.com/OWASP/Amass.git
+ 
+  Path: `Amass/wordlists/`
+
+ 4. Username Enumeration
+- [SecLists (Usernames)](https://github.com/danielmiessler/SecLists)
+ 
+  git clone https://github.com/danielmiessler/SecLists.git
+ 
+  Path: `SecLists/Usernames/`
+
+- [FuzzDB (Usernames)](https://github.com/fuzzdb-project/fuzzdb)
+ 
+  git clone https://github.com/fuzzdb-project/fuzzdb.git
+ 
+  Path: `fuzzdb/discovery/Usernames/`
+
+- [Name-That-Thing](https://github.com/insidetrust/statistically-likely-usernames)
+ 
+  git clone https://github.com/insidetrust/statistically-likely-usernames.git
+ 
+
+ 5. Vulnerability Testing
+- [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+ 
+  git clone https://github.com/swisskyrepo/PayloadsAllTheThings.git
+ 
+
+- [FuzzDB (Vulnerabilities)](https://github.com/fuzzdb-project/fuzzdb)
+ 
+  git clone https://github.com/fuzzdb-project/fuzzdb.git
+ 
+  Path: `fuzzdb/attack/`
+
+- [ExploitDB Wordlists](https://github.com/offensive-security/exploitdb)
+ 
+  git clone https://github.com/offensive-security/exploitdb.git
+ 
+  Path: `exploitdb/`
+
+ 6. General Purpose (Comprehensive Wordlist Collections)
+- [SecLists](https://github.com/danielmiessler/SecLists)
+ 
+  git clone https://github.com/danielmiessler/SecLists.git
+ 
+
+- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
+ 
+  git clone https://github.com/fuzzdb-project/fuzzdb.git
+ 
+
+- [CyberScan Wordlists](https://github.com/cyberheartmi9/CyberScan)
+ 
+  git clone https://github.com/cyberheartmi9/CyberScan.git
+ 
+
+- [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists)
+ 
+  git clone https://github.com/berzerk0/Probable-Wordlists.git
+ 
+
+
